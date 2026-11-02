@@ -8,7 +8,7 @@ A RESTful Web API built with **FastAPI** that deploys the [`distilbert/distilber
 
 - **Full Name:** Nguyễn Cao Diệp
 - **Student ID:** 25127296
-- **Demo Video:** [Watch Demo Video Here]((https://drive.google.com/file/d/1yxHeRrct8B0_4IBEzVlAcIdns45QSnzq/view?usp=sharing))
+- **Demo Video:** [Watch Demo Video Here](https://drive.google.com/file/d/1yxHeRrct8B0_4IBEzVlAcIdns45QSnzq/view?usp=sharing)
 
 ---
 
